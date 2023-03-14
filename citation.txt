@@ -1,0 +1,8 @@
+@article{REPO-312,
+    author = "Frank, Eibe and Hall, Mark",
+    journal = "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    pages = "145-156",
+    title = "{A Simple Approach to Ordinal Classification}",
+    volume = "2167",
+    year = "2001"
+}
